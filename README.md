@@ -1,2 +1,3 @@
-# life-insuarance-project
-i developed this life insurance project
+# stopwatch
+i developed this stipwatch project
+
