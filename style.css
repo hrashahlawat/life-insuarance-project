@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black; 
+
+}
+
+#watch{
+    color: blue;
+    justify-content: center;
+    padding-left: 750px;
+    padding-top: 150px;
+    height: 50px;
+    width: 50px;
+    /* border: 2px solid black; */
+}
+.border{
+    height: 40px;
+    width: 40px;
+    padding-left:700px ;
+    padding-top: 10px;
+    text-align: center;
+    /* background-color: black; */
+    
+}
+#start{
+      gap: 50px;
+      height: 100px;
+      width: 200px;
+      font-size: 20px;
+}
+
+#stop{
+    color: green;
+    height: 100px;
+    width: 200px;
+    gap: 20px;
+    font-size: 20px;
+}
+#reset{
+    color: aqua;
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+}
+
+#lap{
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+}
+#stopwatch{
+    color: red;
+    padding-left: 700px;
+    padding-top: 50px;
+}
+
